@@ -1,0 +1,7 @@
+2024-11-04 21:51:24 INFO  api.test.UserTests - *** Creating User ****
+2024-11-04 21:51:35 INFO  api.test.UserTests - *** User is created ****
+2024-11-04 21:51:35 INFO  api.test.UserTests - *** Reading User ****
+2024-11-04 21:51:36 INFO  api.test.UserTests - ***  User info is displayed ****
+2024-11-04 21:51:36 INFO  api.test.UserTests - *** Updating User ****
+2024-11-04 21:51:38 INFO  api.test.UserTests - *** Deleting User ****
+2024-11-04 21:51:39 INFO  api.test.UserTests - *** User is deleted ****
